@@ -10,7 +10,8 @@ For Example:
 This app is based on [TypeScript Node Starter](https://github.com/microsoft/TypeScript-Node-Starter)
 
 ## How to run
-It is node v8 over required.
+It is node v8 over required. And [direnv](https://github.com/direnv/direnv) required.
+Please rename to `.env` from `.env.sample`.
 
 ### Use docker-compose
 `docker-compose run --rm -p 3000:3000 web`  
