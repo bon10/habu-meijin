@@ -1,7 +1,6 @@
 # Habu-meijin
 This app is a simple API Gateway which can proxy both GraphQL and REST.  
-However, the GraphQL server to be proxied must be Apollo Federation enabled like also:  
-[Apollo Federation](https://blog.apollographql.com/apollo-federation-f260cf525d21)
+However, the GraphQL server to be proxied must be Apollo Federation enabled like also:[Apollo Federation](https://blog.apollographql.com/apollo-federation-f260cf525d21)
 
 For Example:  
 - Ruby:        [apollo-federation-ruby](https://github.com/Gusto/apollo-federation-ruby)  
