@@ -4,7 +4,7 @@
   "dependencies": {
     "@apollo/gateway": "^0.10.5",
     "@types/node-fetch": "^2.5.2",
-    "apollo-server-express": "^2.9.4",
+    "apollo-server-express": "^2.14.2",
     "bluebird": "^3.5.5",
     "compression": "^1.7.4",
     "dotenv": "^8.1.0",
